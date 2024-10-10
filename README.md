@@ -1,4 +1,4 @@
-# SoftSkills - BSTS201P
+# Soft Skills - BSTS201P
 
 # HCF & LCM Problems
 
@@ -40,9 +40,15 @@ This repository contains advanced problems and solutions on the topics of Highes
 
 1. **Solution 1**:  
    Prime factorization:  
-   - \(420 = 2^2 \times 3^1 \times 5^1 \times 7^1\)  
-   - \(540 = 2^1 \times 3^3 \times 5^1\)  
-   - \(630 = 2^1 \times 3^2 \times 5^1 \times 7^1\)  
+   \[
+   420 = 2^2 \times 3^1 \times 5^1 \times 7^1
+   \]  
+   \[
+   540 = 2^1 \times 3^3 \times 5^1
+   \]  
+   \[
+   630 = 2^1 \times 3^2 \times 5^1 \times 7^1
+   \]  
    **HCF**:  
    \[
    HCF = 2^1 \times 3^1 \times 5^1 = 30
@@ -50,9 +56,15 @@ This repository contains advanced problems and solutions on the topics of Highes
 
 2. **Solution 2**:  
    Prime factorization:  
-   - \(12 = 2^2 \times 3^1\)  
-   - \(15 = 3^1 \times 5^1\)  
-   - \(20 = 2^2 \times 5^1\)  
+   \[
+   12 = 2^2 \times 3^1
+   \]  
+   \[
+   15 = 3^1 \times 5^1
+   \]  
+   \[
+   20 = 2^2 \times 5^1
+   \]  
    **LCM**:  
    \[
    LCM = 2^2 \times 3^1 \times 5^1 = 60
@@ -67,9 +79,15 @@ This repository contains advanced problems and solutions on the topics of Highes
 
 4. **Solution 4**:  
    Prime factorization:  
-   - \(252 = 2^2 \times 3^2 \times 7^1\)  
-   - \(324 = 2^2 \times 3^4\)  
-   - \(144 = 2^4 \times 3^2\)  
+   \[
+   252 = 2^2 \times 3^2 \times 7^1
+   \]  
+   \[
+   324 = 2^2 \times 3^4
+   \]  
+   \[
+   144 = 2^4 \times 3^2
+   \]  
    **HCF**:  
    \[
    HCF = 2^2 \times 3^2 = 36
